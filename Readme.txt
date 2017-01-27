@@ -1,19 +1,5 @@
 
 Hello World!
-!q
-;
+- Rheza
 
 
-
-:q
-
-test
-
-
-:q!
-
-
-:wq
-
-
-```
